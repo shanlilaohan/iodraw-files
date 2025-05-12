@@ -438,6 +438,9 @@
         <mxCell id="cdMh6X_Lp3OqSU7EIE6f-1" value="营销区申请人提交申请" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="235" y="20" width="221" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="v_hTLJXgiR6dVnD676Kh-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cdMh6X_Lp3OqSU7EIE6f-2" target="cdMh6X_Lp3OqSU7EIE6f-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cdMh6X_Lp3OqSU7EIE6f-2" value="营销区领导审核" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="259" y="119" width="173" height="49" as="geometry" />
         </mxCell>
