@@ -462,8 +462,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cdMh6X_Lp3OqSU7EIE6f-9" value="审核通过" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="cdMh6X_Lp3OqSU7EIE6f-2" target="cdMh6X_Lp3OqSU7EIE6f-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.0137" relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cdMh6X_Lp3OqSU7EIE6f-10" value="大客户专用车" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.75;entryX=0.5;entryY=0;rounded=0;" parent="1" source="cdMh6X_Lp3OqSU7EIE6f-3" target="cdMh6X_Lp3OqSU7EIE6f-4" edge="1">
